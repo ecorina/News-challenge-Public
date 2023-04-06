@@ -1,0 +1,12 @@
+.Footer {
+  background-color: crimson;
+  color: white;
+  font-size: 30px;
+  margin-top: 90px;
+  text-align: center;
+}
+
+.Footer a {
+  color: white;
+  margin-left: 10px;
+}
